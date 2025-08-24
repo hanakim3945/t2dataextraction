@@ -30,7 +30,7 @@ Examples of sensitive information recoverable from NVRAM include:
 - Usernames and surnames tied to setup  
 - Wi-Fi SSIDs and passwords of joined networks  
 
-![Preview](img/efi_lock_preview.png)
+![Preview](img/userinfo_preview.png)
 
 📂 Additional user-related data can also be found at:  
 ```
